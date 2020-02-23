@@ -15,3 +15,7 @@ Provide simple examples
 Development test
 
 ## How to Contribute
+
+## Copyright
+
+Copyright 2020
